@@ -1,0 +1,8 @@
+{
+    "name": "MPU6050",
+    "version": "1.0.0",
+    "description": "Biblioteca para comunicação com o sensor MPU6050",
+    "keywords": ["MPU6050", "I2C", "Sensor"],
+    "frameworks": ["mbed"],
+    "platforms": ["ststm32"]
+}
